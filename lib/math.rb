@@ -23,7 +23,7 @@ multiply
 end
 
 def modulo(num1, num2)
-div = (num2).remainder(num1)-- 1
+div = (num2).remainder(num1) - 1
 div
 end
 
